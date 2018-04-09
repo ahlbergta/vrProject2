@@ -20,11 +20,11 @@ public class water_level : MonoBehaviour {
         {
             transform.Translate(0, values.temperature * Time.deltaTime * 0.3f , 0);
             //transform.position = new Vector3(0,transform.position.y + values.temperature,0);
-            //Debug.Log(transform.position.y);
+            //Debug.Log(values.waterLevel);
             
         }
 
-       
+        values.waterLevel = transform.position.y;
         
 	}
 }

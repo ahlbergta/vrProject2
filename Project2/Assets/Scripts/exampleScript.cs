@@ -15,6 +15,7 @@ public class exampleScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
+        
         // Use this to set values
         values.temperature = 100.0f;
 	}

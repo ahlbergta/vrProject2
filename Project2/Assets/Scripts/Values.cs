@@ -5,5 +5,5 @@ using UnityEngine;
 public class Values : MonoBehaviour {
     public int coalCount;
     public float temperature;
-    public float waterLevel;
+    public float waterLevel=1;
 }
