@@ -1,6 +1,8 @@
 
 # CS 4331-002 - Virtual Reality Project 2
 
+![alt text]https://github.com/ahlbergta/vrProject2/blob/master/images/main_part.PNG
+
 ## Video Demonstration
 
 https://youtu.be/i88oaEIsy6U
