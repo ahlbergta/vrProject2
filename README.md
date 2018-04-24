@@ -22,7 +22,7 @@ Our purpose is to give the user a basic idea on how the climate can change by th
 
 ## Work Distribution
 
-* Travis Ahlberg: Added the map with lights that represent the states/cities that are affected by climate change
+* Travis Ahlberg: Added the map with lights that represents the states/cities that are affected by climate change
 
 * Eddie Garcia: The ability for the user to pick up coal and drop into fire place
 
@@ -36,4 +36,21 @@ Our purpose is to give the user a basic idea on how the climate can change by th
 * Trying to get the Oculus Rift work for our project.
 * Merging code to finish project.
 * Pushing lots of files to Github.
+
+### Fire Place 
+
+![alt text](https://github.com/ahlbergta/vrProject2/blob/master/images/Fire_place.PNG)
+
+### Data
+
+![alt text](https://github.com/ahlbergta/vrProject2/blob/master/images/Research_done.PNG)
+
+### Environment
+
+![alt text](https://github.com/ahlbergta/vrProject2/blob/master/images/Water_rising.PNG)
+
+### Areas affected
+
+![alt text](https://github.com/ahlbergta/vrProject2/blob/master/images/Map.PNG)
+
 
