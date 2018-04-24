@@ -45,9 +45,18 @@ In the image provided below Eddie created the ability for the user to grab coal 
 
 ### Data
 
-This is our data on temperature, carbon, and water levels rising by the year 2100. Justin added graphs to show how everything will rise by years to come. He researched and cited the websites below as reference. 
+This is our data on temperature, carbon, and water levels rising by the year 2100. Justin added graphs to show how everything will rise for years to come. He researched and cited the websites below the image as reference. 
 
 ![alt text](https://github.com/ahlbergta/vrProject2/blob/master/images/Research_done.PNG)
+
+Data:
+Greenhouse Gas Projection: https://19january2017snapshot.epa.gov/sites/production/files/2016-07/scenarioco2.jpg
+Temperature Projection: https://19january2017snapshot.epa.gov/sites/production/files/styles/medium/public/2016-07/scenariotempgraph_0.jpg
+Sea Level Rise: https://www.niwa.co.nz/sites/niwa.co.nz/files/styles/large/public/global_mean_sea_level_rise.jpg?itok=RgaHaCln
+Supplemental:
+Various Earth "Vital Signs": https://climate.nasa.gov/vital-signs/carbon-dioxide/
+RCP: https://en.wikipedia.org/wiki/Representative_Concentration_Pathways
+
 
 ### Environment
 
