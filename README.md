@@ -1,8 +1,9 @@
+
+# CS 4331-002 - Virtual Reality Project 2
+
 ## Video Demonstration
 
 https://youtu.be/i88oaEIsy6U
-
-# CS 4331-002 - Virtual Reality Project 2
 
 ## Project Description
 
@@ -11,10 +12,10 @@ Our purpose is to give the user a basic idea on how the climate can change by th
 
 ## Contributors
 
-* Travis Ahlberg
-* Eddie Garcia
-* Emre Unal	
-* Justin Wright	
+* [Travis Ahlberg](https:github.com/ahlbergta)
+* [Eddie Garcia](https:github.com/gar37012)
+* [Emre Unal](https:github.com/emreunal93)	
+* [Justin Wright](http:github.com/justinmwright)
 
 
 ## Work Distribution
@@ -29,4 +30,8 @@ Our purpose is to give the user a basic idea on how the climate can change by th
 
 
 ### Biggest Issues 
+
+* Trying to get the Oculus Rift work for our project.
+* Merging code to finish project.
+* Pushing lots of files to Github.
 
