@@ -71,3 +71,4 @@ Travis created a map view of the United States and once a piece of coal is addin
 ![alt text](https://github.com/ahlbergta/vrProject2/blob/master/images/Map.PNG)
 
 
+![alt text](https://github.com/ahlbergta/vrProject2/blob/master/images/Research_done2.PNG)
