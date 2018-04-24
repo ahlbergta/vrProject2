@@ -39,17 +39,25 @@ Our purpose is to give the user a basic idea on how the climate can change by th
 
 ### Fire Place 
 
+In the image provided below Eddie created the ability for the user to grab coal that is shown in front of the fire place and place it in the fire. The user is given a maximum of five coal pieces and each will affect the climate based on how much inputted.
+
 ![alt text](https://github.com/ahlbergta/vrProject2/blob/master/images/Fire_place.PNG)
 
 ### Data
+
+This is our data on temperature, carbon, and water levels rising by the year 2100. Justin added graphs to show how everything will rise by years to come. He researched and cited the websites below as reference. 
 
 ![alt text](https://github.com/ahlbergta/vrProject2/blob/master/images/Research_done.PNG)
 
 ### Environment
 
+Emre created the visual effect that the user can look out the window once they add a coal to the fire place. After a certain amount of coal, the water levels will rise and the glaciers will get smaller. In the image provided below this is an example of just two coal pieces add. In the image the trees are already below water level since the temperature has risen.
+
 ![alt text](https://github.com/ahlbergta/vrProject2/blob/master/images/Water_rising.PNG)
 
 ### Areas affected
+
+Travis created a map view of the United States and once a piece of coal is adding a flashing red light will show which cities/ states are affected. The initial stage of the map starts off with none of the lights blinking red. However, in this image we show how many light are flashing by adding two coal pieces.
 
 ![alt text](https://github.com/ahlbergta/vrProject2/blob/master/images/Map.PNG)
 
