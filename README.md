@@ -49,7 +49,7 @@ This is our data on temperature, carbon, and water levels rising by the year 210
 
 ![alt text](https://github.com/ahlbergta/vrProject2/blob/master/images/Research_done.PNG)
 
-### Data:
+### References:
 * Greenhouse Gas Projection: https://19january2017snapshot.epa.gov/sites/production/files/2016-07/scenarioco2.jpg
 * Temperature Projection: https://19january2017snapshot.epa.gov/sites/production/files/styles/medium/public/2016-07/scenariotempgraph_0.jpg
 * Sea Level Rise: https://www.niwa.co.nz/sites/niwa.co.nz/files/styles/large/public/global_mean_sea_level_rise.jpg?itok=RgaHaCln
@@ -66,7 +66,7 @@ Emre created the visual effect that the user can look out the window once they a
 
 ## Areas affected
 
-Travis created a map view of the United States and once a piece of coal is adding a flashing red light will show which cities/ states are affected. The initial stage of the map starts off with none of the lights blinking red. However, in this image we show how many light are flashing by adding two coal pieces.
+Travis created a map view of the United States and once a piece of coal is added a flashing red light will show the cities/ states that are affected. The initial stage of the map starts off with none of the lights blinking red. However, in this image we show how many light are flashing by adding two coal pieces.
 
 ![alt text](https://github.com/ahlbergta/vrProject2/blob/master/images/Map.PNG)
 
